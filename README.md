@@ -1,8 +1,8 @@
-# Hey! Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjit-Singh-786&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjit-Singh-786" /> </p>
+# Hey! Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh garhwal-786&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh garhwal-786" /> </p>
 
 
 
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Govind kumawat </h1>
+<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'M SAURABH GARHWAL </h1>
 <p align="center">
 </p>
 <h3 align="center">🚩 A Data Scientist  From India. 🚩
@@ -33,11 +33,9 @@
  
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
+- 🔭 I’m currently Internship as **Data Scientist Engineer** at **Upflairs.com Pvt. Ltd. jaipur Rajasthan**
   
 - ⚡ My specialaization in **Python  , c , SQL , ML , DL  **
-  
-- ⚡ Dealing with **Large language models**, utilizing **GenerativeAi tools & techniques** , develop cutting edge applications.
 
 - 😎 Handling structured and non-structured data, and querying the data from Mysql and MongoDB , RDS
     
@@ -45,7 +43,7 @@
 
 - 😎 **Providing Data Science and machine learning**  training on upflairs Pvt. Ltd. jaipur Rajasthan.
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/govind-kumawat2002?tab=repositories)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/saurabhgarhwal2326?tab=repositories)
 
 
 
@@ -79,18 +77,18 @@
 <br/>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Govind-kumawat2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Govind-kumawat2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-kumawat2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=saurabhgarhwal2326&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhgarhwal2326&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhgarhwal2326&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## **CONNECT WITH ME**:
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/ranjitsinghdatascientist/)
-<a href="https://www.instagram.com/kmt_govind/" target="_blank"> 
-<a href="https://www.linkedin.com/in/govind kumawat/" target="_blank">
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/saurabhkhoor1/)
+<a href="https://www.instagram.com/saurabhkhoor1/" target="_blank"> 
+<a href="https://www.linkedin.com/in/saurabh garhwal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
 </a>
-<a href="mailto:kumawatritik54@gmail.com" target="_blank">
+<a href="mailto:saurabhgarhwal353@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Connect me-blue?style=for-the-badge&logo=gmail" alt="Gmail Email">
 </a>
